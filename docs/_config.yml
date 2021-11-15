@@ -1,6 +1,5 @@
 theme: jekyll-theme-slate
 
-nav: 
- - トップ: index.md
- - ページ1: page1.md
+plugins:  
+ - jemoji
  
