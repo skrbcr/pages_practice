@@ -40,3 +40,8 @@ int main() {
 ***
 横線
 
+### 数式のテスト
+$$
+\bold{E} = - \nabla \phi - \frac{\partial{\bold{A}}}{\partial{t}}
+$$
+
